@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    font-family: 'Roboto Condensed';
+   
+}
+
+.registration-container{
+    width:50vw;
+    margin-inline: auto;
+    
+}
+.registration-input-field{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    width: 100%;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid rgb(119, 114, 114);
+    border-radius: none;
+    padding-bottom: 5px;
+}
+.registration-form-required{
+    color: red;
+    font-size: 18px;
+    font-weight: 600;
+}
+.hellow{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+
+
+
+   
+
+
+.blog-inputfield{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    width: 400px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    border-radius: none;
+}
+
+
