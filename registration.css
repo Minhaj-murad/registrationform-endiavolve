@@ -27,29 +27,3 @@
     font-size: 18px;
     font-weight: 600;
 }
-.hellow{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-
-
-
-
-
-
-   
-
-
-.blog-inputfield{
-    margin-top: 5px;
-    margin-bottom: 15px;
-    width: 400px;
-    border: none;
-    outline: none;
-    border-bottom: 1px solid gray;
-    border-radius: none;
-}
-
-
